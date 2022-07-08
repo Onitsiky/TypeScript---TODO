@@ -1,0 +1,15 @@
+.card{
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin: auto;
+    padding: 20px;
+    border-radius: 9px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 8px;
+}

@@ -1,0 +1,9 @@
+.columnContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+}

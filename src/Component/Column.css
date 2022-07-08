@@ -1,0 +1,11 @@
+.column{
+    position: relative;
+    width: 30vw;
+    height: 50vh;
+    border: 2px solid black;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+}

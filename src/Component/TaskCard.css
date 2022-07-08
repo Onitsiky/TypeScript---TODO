@@ -1,0 +1,9 @@
+.TaskContainer{
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    border-radius: 9px;
+    justify-content: center;
+    align-items: center;
+}
